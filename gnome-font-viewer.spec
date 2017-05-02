@@ -4,7 +4,7 @@
 #
 Name     : gnome-font-viewer
 Version  : 3.24.0
-Release  : 4
+Release  : 5
 URL      : https://download.gnome.org/sources/gnome-font-viewer/3.24/gnome-font-viewer-3.24.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-font-viewer/3.24/gnome-font-viewer-3.24.0.tar.xz
 Summary  : No detailed summary available
