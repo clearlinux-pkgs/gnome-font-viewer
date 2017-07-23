@@ -4,7 +4,7 @@
 #
 Name     : gnome-font-viewer
 Version  : 3.24.0
-Release  : 5
+Release  : 6
 URL      : https://download.gnome.org/sources/gnome-font-viewer/3.24/gnome-font-viewer-3.24.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-font-viewer/3.24/gnome-font-viewer-3.24.0.tar.xz
 Summary  : No detailed summary available
@@ -18,6 +18,8 @@ BuildRequires : intltool
 BuildRequires : perl(XML::Parser)
 BuildRequires : pkgconfig(fontconfig)
 BuildRequires : pkgconfig(freetype2)
+BuildRequires : pkgconfig(gio-2.0)
+BuildRequires : pkgconfig(glib-2.0)
 BuildRequires : pkgconfig(gnome-desktop-3.0)
 BuildRequires : pkgconfig(gtk+-3.0)
 BuildRequires : pkgconfig(harfbuzz)
@@ -59,7 +61,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C
-export SOURCE_DATE_EPOCH=1493479825
+export SOURCE_DATE_EPOCH=1500836801
 %configure --disable-static
 make V=1  %{?_smp_mflags}
 
@@ -71,7 +73,7 @@ export no_proxy=localhost,127.0.0.1,0.0.0.0
 make VERBOSE=1 V=1 %{?_smp_mflags} check
 
 %install
-export SOURCE_DATE_EPOCH=1493479825
+export SOURCE_DATE_EPOCH=1500836801
 rm -rf %{buildroot}
 %make_install
 %find_lang gnome-font-viewer
