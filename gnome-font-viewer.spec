@@ -4,7 +4,7 @@
 #
 Name     : gnome-font-viewer
 Version  : 3.26.0
-Release  : 7
+Release  : 8
 URL      : https://download.gnome.org/sources/gnome-font-viewer/3.26/gnome-font-viewer-3.26.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-font-viewer/3.26/gnome-font-viewer-3.26.0.tar.xz
 Summary  : No detailed summary available
