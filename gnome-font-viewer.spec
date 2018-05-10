@@ -4,7 +4,7 @@
 #
 Name     : gnome-font-viewer
 Version  : 3.28.0
-Release  : 12
+Release  : 13
 URL      : https://download.gnome.org/sources/gnome-font-viewer/3.28/gnome-font-viewer-3.28.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-font-viewer/3.28/gnome-font-viewer-3.28.0.tar.xz
 Summary  : No detailed summary available
