@@ -1,3 +1,44 @@
+GNOME Font Viewer - 43.0
+-------------------------------------------------------------------------------
+Fonts 43.beta comes with a new "About" button in the main window and the
+following translation updates:
+ - Abkhazian
+ - Dutch
+ - Friulian
+ - Georgian
+ - Hebrew
+ - Icelandic
+ - Italian
+ - Latvian
+ - Nepali
+ - Occitan (post 1500)
+ - Turkish
+
+GNOME Font Viewer - 43.rc
+-------------------------------------------------------------------------------
+Fonts 43.rc comes with the following translation updates:
+ - Abkhazian
+
+GNOME Font Viewer - 43.beta
+-------------------------------------------------------------------------------
+Fonts 43.beta comes with a new "About" button in the main window and the
+following translation updates:
+ - Abkhazian
+ - Georgian
+ - Occitan (post 1500)
+
+GNOME Font Viewer - 43.alpha
+-------------------------------------------------------------------------------
+Fonts 43.alpha comes with the following translation updates:
+ - Dutch
+ - Friulian
+ - Georgian
+ - Hebrew
+ - Icelandic
+ - Italian
+ - Latvian
+ - Nepali
+
 GNOME Font Viewer - 42.0
 -------------------------------------------------------------------------------
 Fonts 42.0 comes with a port to GTK4 and the following translation updates:
