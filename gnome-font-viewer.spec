@@ -4,7 +4,7 @@
 #
 Name     : gnome-font-viewer
 Version  : 43.0
-Release  : 27
+Release  : 28
 URL      : https://download.gnome.org/sources/gnome-font-viewer/43/gnome-font-viewer-43.0.tar.xz
 Source0  : https://download.gnome.org/sources/gnome-font-viewer/43/gnome-font-viewer-43.0.tar.xz
 Summary  : No detailed summary available
